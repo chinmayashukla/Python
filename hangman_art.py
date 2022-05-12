@@ -1,3 +1,5 @@
+#ASCII art which shows the stages of the game. 
+
 stages = ['''
   +---+
   |   |
